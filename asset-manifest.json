@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://gwoosoft.github.io/csb-tvrqf/static/js/main.0cd3b5a2.chunk.js",
+    "main.js.map": "https://gwoosoft.github.io/csb-tvrqf/static/js/main.0cd3b5a2.chunk.js.map",
+    "runtime-main.js": "https://gwoosoft.github.io/csb-tvrqf/static/js/runtime-main.e9050d5c.js",
+    "runtime-main.js.map": "https://gwoosoft.github.io/csb-tvrqf/static/js/runtime-main.e9050d5c.js.map",
+    "static/js/2.36582637.chunk.js": "https://gwoosoft.github.io/csb-tvrqf/static/js/2.36582637.chunk.js",
+    "static/js/2.36582637.chunk.js.map": "https://gwoosoft.github.io/csb-tvrqf/static/js/2.36582637.chunk.js.map",
+    "index.html": "https://gwoosoft.github.io/csb-tvrqf/index.html",
+    "precache-manifest.c666ba23571af88ada29c0bb184cada1.js": "https://gwoosoft.github.io/csb-tvrqf/precache-manifest.c666ba23571af88ada29c0bb184cada1.js",
+    "service-worker.js": "https://gwoosoft.github.io/csb-tvrqf/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9050d5c.js",
+    "static/js/2.36582637.chunk.js",
+    "static/js/main.0cd3b5a2.chunk.js"
+  ]
+}
